@@ -34,8 +34,8 @@ def initialize_gemini():
         genai.configure(api_key=api_key)
         
         # Directly use Gemini 1.5 Flash model
-        model_name = "models/gemini-1.5-flash-latest"
-        logger.info(f"Using Gemini 1.5 Flash model: {model_name}")
+        model_name = "gemini-2.5-flash"
+        logger.info(f"Using Gemini 2.5 Flash model: {model_name}")
         
         # Initialize the model
         model = genai.GenerativeModel(model_name)
