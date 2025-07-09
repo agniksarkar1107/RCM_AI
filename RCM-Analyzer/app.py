@@ -29,7 +29,7 @@ load_dotenv()
 
 # Set API key directly as fallback if not loaded from .env
 if not os.environ.get("GEMINI_API_KEY"):
-    os.environ["GEMINI_API_KEY"] = "AIzaSyBdz-qcLFRDsR-mm37AlRf2w6RZws2lDL0"
+    os.environ["GEMINI_API_KEY"] = "gemini_api_key"
 
 # Set page configuration with professional branding
 st.set_page_config(
