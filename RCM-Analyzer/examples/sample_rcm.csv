@@ -1,0 +1,16 @@
+Department,Control Objective,What Can Go Wrong,Risk Level,Control Activity,Control/Design Gap,Proposed Control
+Finance,Ensure accurate financial reporting,Financial statements may contain material misstatements,High,Regular reconciliation of accounts and review by supervisor,Reconciliation process is manual and prone to errors,Implement automated reconciliation system
+Finance,Ensure compliance with accounting standards,Non-compliance may lead to regulatory penalties,Medium,Regular training on accounting standards updates,No structured process to track new accounting standards,Develop a compliance calendar for tracking standards updates
+IT,Ensure data security and privacy,Unauthorized access to sensitive data,High,Access controls and encryption,Some legacy systems lack proper encryption,Upgrade security for legacy systems and implement full encryption
+IT,Ensure system availability,Critical systems may experience downtime,Medium,Regular system maintenance and monitoring,No comprehensive disaster recovery plan,Develop and test disaster recovery plan
+HR,Ensure compliance with labor laws,Non-compliance may lead to lawsuits,Medium,Regular training and policy updates,Policies are not regularly reviewed,Implement automated policy review schedules
+HR,Ensure proper employee onboarding,New employees may not receive proper training,Low,Structured onboarding program,Onboarding process varies between departments,Standardize onboarding across all departments
+Operations,Ensure product quality,Product defects may damage reputation,High,Quality control inspections,Quality checks are not consistently documented,Implement digital quality management system
+Operations,Ensure efficient supply chain,Supply chain disruptions may impact production,Medium,Multiple supplier relationships and inventory monitoring,No formal supplier performance evaluation,Develop supplier performance scorecard
+Finance,Ensure proper approval of expenditures,Unauthorized expenditures may occur,Medium,Hierarchical approval workflow,Some emergency purchases bypass approval,Implement post-approval review for emergency purchases
+IT,Ensure proper change management,System changes may introduce bugs,High,"Testing, staging, and approval process",Change documentation is inconsistent,Standardize change documentation templates
+Operations,Ensure workplace safety,Workplace accidents may occur,High,Safety protocols and regular training,Safety training completion is not tracked systematically,Implement safety training tracking system
+Finance,Ensure accurate tax reporting,Incorrect tax filings may result in penalties,High,Multiple-level review of tax filings,No specialized tax software,Acquire specialized tax software
+HR,Ensure fair performance evaluation,Performance evaluations may be subjective,Low,Standardized evaluation criteria,No peer review component,Implement 360-degree feedback
+IT,Ensure proper backup procedures,Data loss may occur,High,Regular backups and verification,Restore tests are infrequent,Schedule monthly restore tests
+Operations,Ensure compliance with environmental regulations,Non-compliance may lead to fines,Medium,Regular audits and monitoring,Environmental impact not systematically measured,Implement environmental impact tracking system 
